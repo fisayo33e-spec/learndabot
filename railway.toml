@@ -1,6 +1,5 @@
 [build]
 builder = "RAILPACK"
-pythonVersion = "3.11"
 
 [deploy]
 startCommand = "python bot.py"
